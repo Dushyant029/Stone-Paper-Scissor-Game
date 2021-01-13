@@ -3,4 +3,5 @@ This is a simple SPS game which is basically a probability challenge thinking ga
 
 ## Preview: https://dushyant029.github.io/Stone-Paper-Scissor-Game/
 
-![image](https://user-images.githubusercontent.com/55031190/104492718-0cceda80-55fa-11eb-9ec5-31b4b1d1c841.png)
+![image](https://user-images.githubusercontent.com/55031190/104493519-24f32980-55fb-11eb-971a-f88f83db39db.png)
+
